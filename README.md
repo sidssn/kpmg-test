@@ -22,7 +22,7 @@ When it executes, it would ask for a user-input:
 e.g. Enter the key for ec2-metadata: instance-id
 Output: {'instance-id': 'i-0c4ac3495897e8d66'}
 
-###Challenge-3
+### Challenge-3
 The code and the unit test cases can be found in the challenge-3 folder
 You can execute the tests from the root dir using the make command:
 make run-challenge-3-test
